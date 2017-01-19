@@ -25,3 +25,9 @@ one | two
 three | four
 
 ![alt text](https://github.com/lecy/regression-simulations/blob/master/GIFS/confidence%20intervals.gif "simulation")
+
+Web link:
+
+https://raw.githubusercontent.com/lecy/regression-in-r/master/SimpleRegression.html
+
+
