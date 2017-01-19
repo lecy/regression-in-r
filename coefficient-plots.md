@@ -126,7 +126,7 @@ We can draw a similar plot with confidence intervals instead of SEs.
 
 
 
-![plot of chunk unnamed-chunk-6](./images/img2)
+![plot of chunk unnamed-chunk-6](./images/img2.png)
 
 
 
@@ -157,7 +157,7 @@ Now draw the plot:
 ```
 
 
-![plot of chunk unnamed-chunk-8](./images/img3)
+![plot of chunk unnamed-chunk-8](./images/img3.png)
 
 ## Comparable effect sizes
 
@@ -234,7 +234,7 @@ Then we can plot the results:
 
 
 
-![plot of chunk unnamed-chunk-13](./images/img4)
+![plot of chunk unnamed-chunk-13](./images/img4.png)
 
 
 
@@ -290,7 +290,7 @@ Then we can plot the results:
 ```
 
 
-![plot of chunk unnamed-chunk-16](./images/img5)
+![plot of chunk unnamed-chunk-16](./images/img5.png)
 
 
 
