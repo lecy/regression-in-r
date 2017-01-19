@@ -24,4 +24,4 @@ Column1 | Column2
 one | two
 three | four
 
-![alttext](https://github.com/lecy/regression-simulations/blob/master/GIFS/confidence%20intervals.gif)
+![alt text](https://github.com/lecy/regression-simulations/blob/master/GIFS/confidence%20intervals.gif "simulation")
