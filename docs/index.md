@@ -20,7 +20,7 @@ plot( year, height )
 
 
 
-[Regression Basics](apage.html)
+[link](apage.html)
 
 
 
