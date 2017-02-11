@@ -17,17 +17,23 @@ plot( year, height )
 
 ```
 
+
+
+
+[Web link](https://raw.githubusercontent.com/lecy/regression-in-r/master/SimpleRegression.html)
+
+
+
+![](confidence%20intervals.gif)
+
+
+
+
 Here is a table:
 
 Column1 | Column2
 --------|---------
 one | two
 three | four
-
-![](https://github.com/lecy/regression-simulations/blob/master/GIFS/confidence%20intervals.gif)
-
-[Web link](https://raw.githubusercontent.com/lecy/regression-in-r/master/SimpleRegression.html)
-
-
 
 
