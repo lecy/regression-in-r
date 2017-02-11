@@ -20,7 +20,7 @@ plot( year, height )
 
 
 
-[Web link](https://raw.githubusercontent.com/lecy/regression-in-r/master/SimpleRegression.html)
+[Regression Basics](apage.html)
 
 
 
